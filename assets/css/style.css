@@ -1,0 +1,13 @@
+body {
+    background-image: url(../images/pipes.png);
+}
+
+.container {
+    background-color: #fff;
+    margin-top: 20px;
+    margin-bottom: 65px;
+}
+
+footer {
+    color: #fff;
+}
