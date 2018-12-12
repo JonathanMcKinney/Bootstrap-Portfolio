@@ -1,13 +1,28 @@
 body {
     background-image: url(../images/pipes.png);
+    font-family:'Raleway', sans-serif;
+}
+
+.navbar-brand {
+    font-family:'Quicksand', sans-serif;
+    font-size: 30px;
+    color: #3f729b
+}   
+
+.footer {
+     color: #3f729b;
 }
 
 .container {
+    padding-top: 20px;
     background-color: #fff;
     margin-top: 20px;
     margin-bottom: 65px;
+    border: 2px #3f729b solid;
 }
 
-footer {
-    color: #fff;
-}
+
+
+
+
+
